@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Software Developer with a passion for Technology and new challenges.
+I'm a Software Developer with a passion for Technology and new Challenges.
 
 
 # 💻 Tech Stack:
